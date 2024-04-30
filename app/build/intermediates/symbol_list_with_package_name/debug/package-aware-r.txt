@@ -56,6 +56,7 @@ dimen subtitle_corner_radius
 dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
+drawable attt
 drawable calendar_icon
 drawable clg
 drawable ic_banner_foreground

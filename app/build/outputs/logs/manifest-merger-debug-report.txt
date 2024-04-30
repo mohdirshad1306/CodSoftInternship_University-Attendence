@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\6dc8433e8eac7e63fd332002fdc6e30c\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\a86a7444f7d83d25c50beb253e0687e6\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\40e37da139b1bd9b7bb8fa764c559d9c\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
@@ -29,25 +29,25 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\irs13\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\a53d9506ae4dacb055d43639ef5bb2b9\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\8685e06f4e5777f3b1c280be6231fd18\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
 	package
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:1-73:12
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:4:5-30
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:6:5-71:19
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:6:5-71:19
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\481601e68be228fa2a45e74a81c7e04e\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
@@ -55,109 +55,109 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\irs13\.gra
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\0b22a6b07b3e498281e2fdb9d93c9c6b\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:9:9-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:9:9-38
 	android:allowBackup
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:11:9-40
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:7:10-74
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:7:10-74
 activity#com.android.attendance.activity.MainActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:12:9-21:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:15:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:15:13-45
 	android:exported
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:13:13-72
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:13:13-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:16:13-20:29
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:17-69
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:17:25-66
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:17-77
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:19:27-74
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.android.attendance.activity.LoginActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:22:10-25:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:22:10-25:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:24:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:24:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:23:13-73
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:23:13-73
 activity#com.android.attendance.activity.MenuActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:26:10-29:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:26:10-29:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:28:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:28:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:27:13-72
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:27:13-72
 activity#com.android.attendance.activity.AddFacultyActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:30:10-33:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:30:10-33:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:32:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:32:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:31:13-78
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:31:13-78
 activity#com.android.attendance.activity.AddStudentActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:34:9-37:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:34:9-37:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:36:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:36:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:35:13-78
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:35:13-78
 activity#com.android.attendance.activity.ViewFacultyActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:38:9-41:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:38:9-41:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:40:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:40:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:39:13-79
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:39:13-79
 activity#com.android.attendance.activity.ViewStudentActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:42:9-45:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:42:9-45:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:44:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:44:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:43:13-79
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:43:13-79
 activity#com.android.attendance.activity.TestActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:46:9-49:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:46:9-49:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:48:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:48:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:47:13-72
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:47:13-72
 activity#com.android.attendance.activity.ViewStudentByBranchYear
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:50:10-53:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:50:10-53:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:52:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:52:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:51:13-83
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:51:13-83
 activity#com.android.attendance.activity.AddAttandanceSessionActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:54:11-57:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:54:11-57:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:56:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:56:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:55:13-88
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:55:13-88
 activity#com.android.attendance.activity.AddAttendanceActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:58:10-61:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:58:10-61:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:60:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:60:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:59:13-81
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:59:13-81
 activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:62:10-65:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:62:10-65:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:64:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:64:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:63:13-91
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:63:13-91
 activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
-ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:66:10-69:20
+ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:66:10-69:20
 	android:label
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:68:13-45
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:68:13-45
 	android:name
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml:67:13-92
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml:67:13-92
 uses-sdk
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\6dc8433e8eac7e63fd332002fdc6e30c\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\6dc8433e8eac7e63fd332002fdc6e30c\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\irs13\.gradle\caches\transforms-3\a86a7444f7d83d25c50beb253e0687e6\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
@@ -208,13 +208,13 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irs13\.gradle\
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\8685e06f4e5777f3b1c280be6231fd18\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\irs13\.gradle\caches\transforms-3\d7f073c16ca3baa38c501851e8255cb7\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		ADDED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
-		INJECTED from D:\PROJECT\Android-Attendance-App-2023\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		ADDED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PROJECT\University Attendence CodSoft\app\src\main\AndroidManifest.xml

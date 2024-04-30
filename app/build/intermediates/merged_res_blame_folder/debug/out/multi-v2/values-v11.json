@@ -4,7 +4,7 @@
             "outputFile": "com.example.androidattendancesystem.app-mergeDebugResources-6:/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\PROJECT\\Android-Attendance-App-2023\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "D:\\PROJECT\\University Attendence CodSoft\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "6",
                         "startColumns": "4",
